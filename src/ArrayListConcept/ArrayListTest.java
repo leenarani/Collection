@@ -2,9 +2,10 @@ package ArrayListConcept;
 
 import java.util.ArrayList;
 
-public class ArrayListDemo {
+public class ArrayListTest {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		ArrayList<Object> ar = new ArrayList<Object>();
 		ar.add(100);
 		ar.add(200);
@@ -15,7 +16,6 @@ public class ArrayListDemo {
 		
 		
 		
-
 	}
 
 }
